@@ -1,2 +1,4 @@
 # MyJavaScriptDiary
-My notes about JavaScript learnings
+I'm starting to learn about Javacript.
+It's the first code language I'm trying.
+Baby steps...
